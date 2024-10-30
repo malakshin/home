@@ -17,7 +17,7 @@ const HomeStart = () => {
           <div className="imgandnotes">
             <div className="mid">
               <div className="notebord">
-                <img src='/images/bell.png' className="note1" /> 
+                <img src='/images/bell.png' className="note1" alt='' /> 
                 <p className="notestr1">Are you ready to take courses !</p>
               </div>
               <div className="note2">

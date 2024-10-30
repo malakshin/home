@@ -13,8 +13,7 @@ const NavBar = () => {
             <li><a href="/">Home</a></li>
             <li><a href="/Courses">Courses</a></li>
             <li><a href="/#">Profile</a></li>
-            <li><a href="/#">logout</a></li>
-            <li><a href="/#">Contact us</a></li>
+            <li><a href="/logout">logout</a></li>
         </ul>
        <div className="search-container">
             <input type="text" className="search-input" placeholder="Search..."/>

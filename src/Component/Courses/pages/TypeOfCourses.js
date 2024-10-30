@@ -10,7 +10,7 @@ const TypeOfCourses = () => {
             <div className="typestext-content">
                 <h2>Technical</h2>
                 <p>Technical are essential in today's world, as they allow you to work with technology, solve problems, and create solutions. Learning technical skills can include programming, working with hardware. </p>
-                <button className="viewbtn">view</button>
+                <button className="viewbtn"><a href='#React'>view</a></button>
             </div>
         </div>
         <div className="twotypes">
@@ -42,7 +42,7 @@ const TypeOfCourses = () => {
         <div className="undercourses">
         <hr className="line"/>
         <p className="Technicalcourses">Technical courses</p>
-        <div className="FiberOptics">
+        <div className="FiberOptics" id='React'>
                 <div className="fiberinfo">
                     <h2 className="fibertitle">Fiber Optics: Fast Data Transmission</h2>
                     <p className="fiberdis">

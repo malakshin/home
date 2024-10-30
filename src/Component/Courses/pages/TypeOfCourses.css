@@ -1,6 +1,11 @@
 * {
     font-family: auto;
 }
+a {
+    color: #ffffff;
+    text-decoration: none;
+    
+}
 .twotypes {
     display: flex;
     align-items: center;
@@ -79,6 +84,7 @@ p {
     justify-content: space-between; 
     align-items: stretch; 
     background-color: #E3E6DD;
+    margin-bottom: 30px;
 }
 
 .fiberinfo {

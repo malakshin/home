@@ -80,6 +80,7 @@ nav ul li a:hover {
     background: #d9d9d9;
     border-radius: 50px;
     margin-top: 10px;
+    height: 300px;
 }
 
 .left {
@@ -88,7 +89,7 @@ nav ul li a:hover {
 
 .topic {
     margin: 0;
-    font: 600 54px/54px Inter, sans-serif;
+    font: 600 50px/54px Inter, sans-serif;
     color: black;
 }
 
@@ -189,9 +190,9 @@ nav ul li a:hover {
 .girl {
     box-sizing: border-box;
     display: block;
-    width: 430px;
+    width: 322px;
     max-width: initial;
-    height: 361px;
+    height: 276px;
     margin-left: -26px;
     border: none;
     object-fit: cover;
